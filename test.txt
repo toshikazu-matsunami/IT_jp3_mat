@@ -2,3 +2,8 @@ class Book
   def initialize
   end
 end 
+C
+Bui Minh Duc 20184071
+AB
+
+i
