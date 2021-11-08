@@ -1,4 +1,2 @@
-class Book
-  def initialize
-  end
-end 
+pratice1
+Bui Minh Duc 20184071
