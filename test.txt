@@ -1,4 +1,1 @@
-class Book
-  def initialize
-  end
-end 
+//practice1
